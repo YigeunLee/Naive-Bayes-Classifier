@@ -9,5 +9,5 @@
 
 Example
 -------------
-##### ['Rainy','Mild','High','FALSE']
-##### [0.25093735711019655, 0.8780800000000001]
+##### Input : ['Rainy','Mild','High','FALSE']
+##### Output : [0.25093735711019655, 0.8780800000000001] => Positive Prob 0.25, Negative Prob 0.87
