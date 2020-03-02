@@ -14,9 +14,11 @@ Reference
 Example #1
 -------------
 ##### Input : ['Rainy','Mild','High','FALSE']
+##### Expectation : NO
 ##### Output : [0.25093735711019655, 0.8780800000000001] => Positive Prob 0.25, Negative Prob 0.87
 
 Example #2
 -------------
 ##### Input : ['Rainy','Cool','Normal','FALSE']
+##### Expectation : YES
 ##### Output : [0.5646090534979423, 0.16464000000000004] => Positive Prob 0.56, Negative Prob 0.16
